@@ -13,7 +13,7 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 **Thoughts**: This was such a great tutorial. Learned a lot: loading images, animation, sounds, game over screen. I
 can't believe this was free. This should have been my first tutorial.
 
-**Link to work**: [Pong](https://github.com/statickarma/100-days-of-gamedev/tree/main/02-flappy-bird)
+**Link to work**: [Flappy Bird](https://github.com/statickarma/100-days-of-gamedev/tree/main/02-flappy-bird)
 
 ### Day 1: June 16, 2021
 
