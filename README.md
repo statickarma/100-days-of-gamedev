@@ -6,6 +6,15 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 2: June 17, 2021
+
+**Today's Progress**: Created Flappy Bird clone by following a [tutorial](https://www.youtube.com/watch?v=UZg49z76cLw).
+
+**Thoughts**: This was such a great tutorial. Learned a lot: loading images, animation, sounds, game over screen. I
+can't believe this was free. This should have been my first tutorial.
+
+**Link to work**: [Pong](https://github.com/statickarma/100-days-of-gamedev/tree/main/02-flappy-bird)
+
 ### Day 1: June 16, 2021
 
 **Today's Progress**: Created Pong by following
@@ -16,7 +25,6 @@ W/S and UP/DOWN keys). Encountered a few bugs while playing. I get **what** is b
 and **why** (`blit`, `flip` and `all_sprite_list.draw()`).
 
 **Link to work**: [Pong](https://github.com/statickarma/100-days-of-gamedev/tree/main/01-pong)
-
 
 ### Day 0: June 15, 2021
 
