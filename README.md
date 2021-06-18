@@ -6,6 +6,15 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 3: June 18, 2021
+
+**Today's Progress**: Created Snake by following a [tutorial](https://www.youtube.com/watch?v=QFvqStqPCRU).
+
+**Thoughts**: This is from the same guy that created the flappy bird tutorial yesterday. 
+Another great tutorial. I think I should be able to create a simple game on my own now.
+
+**Link to work**: [Snake](https://github.com/statickarma/100-days-of-gamedev/tree/main/03-snake)
+
 ### Day 2: June 17, 2021
 
 **Today's Progress**: Created Flappy Bird clone by following a [tutorial](https://www.youtube.com/watch?v=UZg49z76cLw).
