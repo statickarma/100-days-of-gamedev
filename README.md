@@ -6,12 +6,22 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 4: June 22, 2021
+
+**Today's Progress**: Created Platformer by following a list
+of [tutorials](https://www.youtube.com/playlist?list=PLjcN1EyupaQnHM1I9SmiXfbT6aG4ezUvu).
+
+**Thoughts**: I did the first 9 parts. It was more of an ad-hoc kind of tutorial and not as organized as the previous
+one. It was a good exercise, I think I am ready to make a simple game of my own.
+
+**Link to work**: [Platformer](https://github.com/statickarma/100-days-of-gamedev/tree/main/04-platformer)
+
 ### Day 3: June 18, 2021
 
 **Today's Progress**: Created Snake by following a [tutorial](https://www.youtube.com/watch?v=QFvqStqPCRU).
 
-**Thoughts**: This is from the same guy that created the flappy bird tutorial yesterday. 
-Another great tutorial. I think I should be able to create a simple game on my own now.
+**Thoughts**: This is from the same guy that created the flappy bird tutorial yesterday. Another great tutorial. I think
+I should be able to create a simple game on my own now.
 
 **Link to work**: [Snake](https://github.com/statickarma/100-days-of-gamedev/tree/main/03-snake)
 
