@@ -15,7 +15,7 @@ and [Part 2](https://www.youtube.com/watch?v=nXOVcOBqFwM).
 **Thoughts**: This was interesting. Previously I loaded all animation frames individually. This makes more sense, load
 one image with all frames (_spritesheet_) and use code to create separate frames.
 
-**Link to work**: [Platformer](https://github.com/statickarma/100-days-of-gamedev/tree/main/05-sprite-sheet)
+**Link to work**: [Sprite Sheet Animation](https://github.com/statickarma/100-days-of-gamedev/tree/main/05-sprite-sheet)
 
 ### Day 5: June 23, 2021
 
