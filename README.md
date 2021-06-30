@@ -6,6 +6,16 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 5: June 23, 2021
+
+**Today's Progress**: Attempted to create a simple game and failed. It requires a lot more thought and
+planning than I expected.
+
+**Thoughts**: There's a part I neglected about making games: designing/planning. Showing images and moving them around
+the screen is not enough to create a game. I need to think it through, design it, plan it and then execute.
+
+**Link to work**: n/a
+
 ### Day 4: June 22, 2021
 
 **Today's Progress**: Created Platformer by following a list
