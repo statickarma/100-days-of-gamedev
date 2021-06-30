@@ -6,10 +6,21 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 6: June 30, 2021
+
+**Today's Progress**: Created a sprite sheet animation by
+following: [Part 1](https://www.youtube.com/watch?v=M6e3_8LHc7A)
+and [Part 2](https://www.youtube.com/watch?v=nXOVcOBqFwM).
+
+**Thoughts**: This was interesting. Previously I loaded all animation frames individually. This makes more sense, load
+one image with all frames (_spritesheet_) and use code to create separate frames.
+
+**Link to work**: [Platformer](https://github.com/statickarma/100-days-of-gamedev/tree/main/05-sprite-sheet)
+
 ### Day 5: June 23, 2021
 
-**Today's Progress**: Attempted to create a simple game and failed. It requires a lot more thought and
-planning than I expected.
+**Today's Progress**: Attempted to create a simple game and failed. It requires a lot more thought and planning than I
+expected.
 
 **Thoughts**: There's a part I neglected about making games: designing/planning. Showing images and moving them around
 the screen is not enough to create a game. I need to think it through, design it, plan it and then execute.
