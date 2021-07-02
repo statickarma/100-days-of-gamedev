@@ -6,6 +6,15 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 7: July 1, 2021
+
+**Today's Progress**: Working on creating reusable classes for game and sprites.
+
+**Thoughts**: Had lots of fun doing this. Are you even a dev if you don't over-engineer prematurely?
+
+**Link to work**: [Over Engineer](https://github.com/statickarma/100-days-of-gamedev/tree/main/06-dino)
+
+
 ### Day 6: June 30, 2021
 
 **Today's Progress**: Created a sprite sheet animation by
