@@ -6,6 +6,15 @@ for me and that's okay. I'll be doing this in [python](https://www.python.org/) 
 
 # Log
 
+### Day 8: July 2, 2021
+
+**Today's Progress**: Loading a sprite sheet and parsing it with 1 method.
+
+**Thoughts**: Trying to implement OOP practices, but I wonder if those of web development apply to game dev as well.
+
+**Link to work**: [Sprite Sheet](https://github.com/statickarma/100-days-of-gamedev/tree/main/06-dino)
+
+
 ### Day 7: July 1, 2021
 
 **Today's Progress**: Working on creating reusable classes for game and sprites.
